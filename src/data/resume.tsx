@@ -136,7 +136,7 @@ export const DATA = {
     },
     {
       title: "Geoventura",
-      href: "https://llm.report",
+      href: "https://drive.google.com/file/d/11Ph4viAsI5U2hzv4bKckXxDRiqlGpXAa/view?usp=drivesdk&usp=embed_facebook",
       dates: "Aug 2024 - Dec 2024",
       active: true,
       description:
